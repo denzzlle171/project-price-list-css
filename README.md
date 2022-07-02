@@ -1,5 +1,5 @@
 # Price table
-### [Site link](denzzlle171.github.io/project-price-list-css/)
+### [Site link](https://denzzlle171.github.io/project-price-list-css/)
 
 Layout supports desktop (up-to-1400) versions
 
